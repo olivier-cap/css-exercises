@@ -1,0 +1,19 @@
+.odd, .special {
+  background-color: rgba(255, 0, 0, 0.712);
+  font-family:Verdana,'DejaVu Sans', Geneva, Tahoma, sans-serif;
+}
+
+#two {
+  color: rgba(119, 0, 255, 0.795);
+  font-size: 36px;
+}
+
+.special{
+  font-size: 24px;
+}
+
+#idd{
+  background-color: aquamarine;
+  font-size: 24px;
+  font-weight: bold;
+}
